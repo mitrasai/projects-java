@@ -1,0 +1,11 @@
+Program Name: Toothpaste Percentage Flouride Checker
+
+1. we need to develop a Toothpaste percentage checker that allows the user to entry a maximum of 2 kinds of Toothpastes to calculate the percentage of Flouride Content and compate them to see which toothpaste has higher flouride content.
+
+2. We must create an login page, so that only authorised users can be able to check. And the final output is displayed in a tabular form
+
+3. Formual:- 
+percentage of flouride = (content of flouride present / total paste weight)*100
+
+4. name:- beginner@123
+password:- Codewithfun@123
