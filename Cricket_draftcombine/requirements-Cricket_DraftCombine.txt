@@ -1,0 +1,5 @@
+This project aims to design and develop CRICKET stats programmed system, to record physical measurements and personal information of players respectively.
+
+Step-1: Here, I will be creating 2 player objects and 2 cricket official objects (who will note down the measurements). And Cricket_Officials can be able to access the variables that have been declared in measurements class. so, they can intitalize them with the values that they will be taking from the players
+
+Step-2: Calcualting the BMI (Body Mass Index): Formula : BMI = (703 times WEIGHT in pounds)/(HEIGHT in inches times HEIGHT in inches)
