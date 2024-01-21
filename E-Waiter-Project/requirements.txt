@@ -1,0 +1,9 @@
+About:
+This is an E-waiter program for a restaurant called "Mitra" (for an instance). And the objective of the program is to collect orders from customers and process their orders based on the portion selections (means the meals what they ordered) they choose. And finally issuing a bill to the customers.
+
+Work:
+1. I have created two files one (Main_Restaurantt.java) is for order details along with their prices, the details present in this file must be access only waiters present inside the restaurant (so, I have protected these details from others).
+
+2. And other (Customer_Orders.java) here we will call the variables which are present in first file by creating object of that class.
+
+3. The final result is shown in a tabular format to better understand.
