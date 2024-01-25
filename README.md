@@ -9,3 +9,5 @@ Project-3:- CRICKET stats programmed system, which is designed & developed to re
 Project-4:- Toothpaste Percentage(%) Flouride Checker
 
 Project-5:- Patient Medication Analytics System
+
+Project-6:- Space Lab Programmed System
