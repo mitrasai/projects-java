@@ -1,0 +1,45 @@
+1. calculate the focal ratios of the telescope available in lab so they can get the best observations og nebula and stars
+
+2. We need to estimate their weight and age on different planets of the solar system computed by our system
+
+
+focal ratio = focal length/lens aperture
+[dividing the focal length by the lens aperture]
+eg: 1000 mm/102 mm
+
+for -> observing moon, planets and double stars => f/10 or more is ideal
+
+for -> observing star clusters, galaxies and mily way => f/7 or less is better
+
+Fromula
+-----------------------
+1. calculate your age in earth days rather than years
+ -> userAge * 365 = ? earthdays
+ -> 12 * 365 = 4380 days old
+
+2. Fro Inner Terrestrail Planets
+ -> Mercury = 88 earth days (planet orbital period)
+ -> Venus = 225 earth days
+ -> Mars = 687 earth days
+
+3. Outer Terrestrail Planets
+ -> Jupiter = 12 earth years
+ -> Saturn = 29.5 earth years
+ -> Uranus = 84 earth years
+ -> Neptune = 165 earth years 
+ -> Pluto = 248 earth years
+-------------------------
+4. To calculate the weight of the space explorers
+ -> by multiplying a person's weight(in pounds or kg) times the relative surface gravity of the planet
+
+wt.of other planet = wt on earth * mulitple of earth's gravity
+
+Mercury -> 0.38
+Venus -> 0.91
+Mars -> 0.38
+Jupiter -> 2.34
+Saturn -> 1.06
+Uranus -> 0.92
+Neptune -> 1.19
+---------------------------------
+
