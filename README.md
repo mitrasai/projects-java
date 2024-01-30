@@ -11,3 +11,5 @@ Project-4:- Toothpaste Percentage(%) Flouride Checker
 Project-5:- Patient Medication Analytics System
 
 Project-6:- Space Lab Programmed System
+
+Project-7:- Ticket Booking System for Movies
