@@ -1,0 +1,36 @@
+"Pet Center Program System for veterinarian doctors" Using Loops
+
+-> This system has been designed and developed with sole objective of analyzing pet's health condition by calculating their resting energy along with maintenance energy requirements.
+
+Requirement:-
+---------------
+-> Forumla for Resting Energy Requirement(calories/day) is
+     1. should consider pet's size(dog/cat)
+          small/large -> RER = 70 * (weight of the pet in kg)^0.75
+          medium      -> RER = 30 * (weight of the pet in kg)+70
+
+-> Formula for Maintenance Energy Requirement(calorie/day) is
+     1. should consider factors of pet type
+           MER -> RER * Factor(can be dog/cat)
+
+Factors of dog:-
+-----------------
+puppy(0-4 years) = 3.0
+puppy(4 years - adult) = 2.0
+adult - inactive/obese = 1.2
+adult - played/neutered = 1.6
+adult - inactive = 1.8
+adult - weight loss = 1.0
+adult - weight gain = 1.7
+working dog - light work = 2.0
+working dag - moderate work = 3.0
+working dog - heavy work = 5.0
+senior dog - 1.1
+
+Factors of cat:-
+------------------
+kitten(0-4 years) = 3.0
+kitten(4 years - adult) = 2.0
+adult - abese prone = 1.0
+adult - neutered = 1.2
+adult - not neutered = 1.4
