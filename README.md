@@ -13,3 +13,6 @@ Project-5:- Patient Medication Analytics System
 Project-6:- Space Lab Programmed System
 
 Project-7:- Ticket Booking System for Movies
+
+Loops
+Project-8:- Pet's Center Programmed System for Veterinarian Doctors Using LOOPS
