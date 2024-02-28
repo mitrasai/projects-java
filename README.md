@@ -16,4 +16,6 @@ Project-7:- Ticket Booking System for Movies
 
 Loops Project-8:- Pet's Center Programmed System for Veterinarian Doctors Using While
 
-Loops Project-8:- Sqaure and Cube of a number game Using While
+Loops Project-9:- Sqaure and Cube of a number game Using While
+
+Project-10:- DNA Hamming Distance Calculator
