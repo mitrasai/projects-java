@@ -19,3 +19,5 @@ Loops Project-8:- Pet's Center Programmed System for Veterinarian Doctors Using 
 Loops Project-9:- Sqaure and Cube of a number game Using While
 
 Project-10:- DNA Hamming Distance Calculator
+
+Project-11:- E-ATM Machine
