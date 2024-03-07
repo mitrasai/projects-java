@@ -21,3 +21,5 @@ Loops Project-9:- Sqaure and Cube of a number game Using While
 Project-10:- DNA Hamming Distance Calculator
 
 Project-11:- E-ATM Machine
+
+Project-12:- Scoring System in Sports
