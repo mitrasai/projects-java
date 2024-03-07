@@ -23,3 +23,5 @@ Project-10:- DNA Hamming Distance Calculator
 Project-11:- E-ATM Machine
 
 Project-12:- Scoring System in Sports
+
+Project-13:- Pythagorean Calculator
