@@ -31,3 +31,5 @@ Project-14:- pH Scale Analyzer for Acids and Bases
 Project-15:- Random Number Guessing Game
 
 Project-16:- Sound Measure System - Doppler Effect
+
+Project-17:- Aircraft Lift Measuring System
