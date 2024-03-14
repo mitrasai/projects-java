@@ -33,3 +33,5 @@ Project-15:- Random Number Guessing Game
 Project-16:- Sound Measure System - Doppler Effect
 
 Project-17:- Aircraft Lift Measuring System
+
+Project-18:- Mathematics Quizzer
