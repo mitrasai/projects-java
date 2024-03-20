@@ -1,0 +1,31 @@
+student assessment logbook
+------------------------------
+-> that will enable them to enter the progress status for any of the assessments mentioned above for at most two subjects per week
+-> student will need to first enter an key for the subjects they would like to keep tabs on(for example MA for mathematics)
+
+Assessment status and Assessment subject
+
+Breakdown-1
+------------
+-> main class should be created first. then, a welcome message along with ASCII art should be included with ANSI colors applied to make the GUI interactive for the users. a gif image should also be included to enhance the aesthetics of the GUI as well
+-> validation checks using loop structures should be included to validate the user's entery of entering a two-lettered key for only two subjects
+-> StringBuilder and random class should be used to generate random course codes with a length of 7 to uniquely indentify each subject the student enters
+-> users should be provided with the opportunity to change the assignment progress status for any of the subjects they have entered
+-> final info registered from the user including all changes made should be stored in txt editor using the robot class in java, the clipboard class and the StringSelection constructor
+
+
+ ____________________
+| |                | |
+| |                | |
+| |     study      | |
+| |                | |
+| |                | |
+| |                | |
+| |                | |
+| |________________| |
+|____________________|
+// ################ //
+// ################ //
+/                   /
+/_______{   }______/
+
