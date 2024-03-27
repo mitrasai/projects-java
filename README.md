@@ -36,4 +36,6 @@ Project-17:- Aircraft Lift Measuring System
 
 Project-18:- Mathematics Quizzer
 
-Project-19:- Assignment Logbook for Students
+Project-19:- Assignment Logbook for Students Using StringBuilders
+
+Project-20:- Grocery Application System Using StringBuilders
