@@ -1,0 +1,14 @@
+Robo-Grocer
+-------------
+-> interactive grocery application
+-> to type in and store your groccery list containing all the items (storing pictures of those items)
+-> it assist users in storing their grocery list items interactively
+-> screenshots for user refference
+
+Break-Down
+-----------
+-> GUI interactive and user friendly
+-> then the user should be asked to enter their grocery items sequentially along with the quantity needed per item
+-> with help of Desktop and Robo class, each of the user's grocery item images will be stored in a file(using img URI)
+-> StringBuilder() class we have several methods like replace(), delete(), indexOf(), length() will be used to allow the user to make changes to their grocery items list before finally having the list written and stored by the Robot class
+-> the written grocery list by robo-grocer based onthe user selection will be stored in a file by user using text editor software like notepad, testedit with the help of Runtime class and exec command
