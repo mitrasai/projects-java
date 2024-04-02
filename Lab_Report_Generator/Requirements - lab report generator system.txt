@@ -1,0 +1,57 @@
+science lab generator system
+-------------------------------
+-> to automatically generate lab reports for students studying the sciences specifically aimed at the chemistry and biology science subjects.
+-> the lab report generator system should be programmed to provide students with guidelines for the information that needs to be included in each section of the report
+-> contians a word count sub-system for each section of the report to guide students on the number limit of words needed per section
+-> these sections that will need to included in the lab report generator includes:-
+  -> the lab report title
+  -> the stmt of the problem or the research quesions
+  -> hypothesis
+  -> the variables during the lab experiment
+  -> materials used for the experiment
+  -> the methods by which the experiment was conducted
+  -> picutres of the lab experiment set up
+  -> the data results of the experiment should be represented in a line chart
+  -> conclusion
+
+-> information received from the user for each section of the lab report should be written in the lab report pdf file that will be generated for the user.
+
+
+Section 1 - Creating or Generating a Chart
+--------------------------------------------
+-> Create a section that handle, generating line-chart along with data-sets (for this we must import package called jfreechart)
+   -> at first, we need to create default data set that takes x,y points
+	 DefaultCategoryDataset dataset = Dataset();
+
+   -> creating a line-chart, various charts are present in ChartFactory class
+	JFreeChart chart = ChartFactory.createLineChart(); //inside parenthesis it takes 4 arguments namely: chart title, x-axis plot, y-axis plot, dataset
+
+   -> to display chart in independent window or new window, we must use Chartpanel class
+	ChartPanel panel = new ChartPanel(); //inside parenthesis we should pass out chart object i.e., 'chart'
+
+
+Section 2 - Creating or Generating the actual data that will be used to construct a chart
+--------------------------------------------------------------------------------------------
+-> Create a section that handle, generating line-chart along with data-sets (for this we must import package called jfreechart)
+   -> at first, we need to create default data set that takes x,y points
+	 DefaultCategoryDataset dataset = Dataset();
+
+-> Entering sets of data i.e., cookies names[x-axis] along with units sold[y-axis] (or) cookies names[x-axis] along with their prices[y-axis]
+
+-> adding all the sets of data into our dataset using addValue() method
+	dataset.addValue(); //inside parenthesis put our x, y axises
+
+Section 3 - Asking all the requirements along with checking and validating the word count
+---------------------------------------------------------------------------------------------
+
+
+Section 4 - if all the flags are valid, which means all the requirements word count are valid then write all the information into a pdf file using PdfWriter class
+----------------------------------------------------------------------------------------------------------------------------------------------
+-> Create a document object for Document class inorder to create an document
+	Document document = new Document();
+
+-> write all the information into an document using PdfWriter class, for this we have to use getInstance() method
+
+-> add all the sections into an document using add() method
+
+-> At last close Document, writer class using close() method
