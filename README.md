@@ -41,3 +41,5 @@ Project-19:- Assignment Logbook for Students Using StringBuilders
 Project-20:- Grocery Application System Using StringBuilders
 
 Project-21:- Project or Lab Report Generator System
+
+Project-22:- Tiny Text Editor using Streams
